@@ -1,0 +1,75 @@
+body {
+    color: whitesmoke;
+}
+
+#background {
+    background-color: rgb(53,53,53);
+}
+
+#site_title {
+    font-size: 72px;
+    text-align: center;
+    font-family: 'Tangerine';
+}
+
+#site_subtitle {
+    font-size: 26px;
+    text-align: center;
+    font-family: 'Unica One';
+}
+
+#aboutTime {
+    text-align: center;
+}
+.BigWatches {
+    display: block;
+    margin: 0 auto;
+    width: 540px;
+}
+
+.watch_container {
+    background-color: #1a1818;
+    border-style: solid;
+    border-radius: 13px;
+    border-collapse: separate;
+    border-color: #fdefa6;
+    border-width: 2px;
+    padding: 16px;
+    margin-left: 60px;
+    margin-right: 60px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.watchPic {
+    float: left;
+    width: 200px;
+    height: 200px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#text {
+
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    float: right;
+    font-family: 'Dosis';
+}
+
+footer {
+    margin-top: 25px;
+    margin-bottom: 25px;
+    font-size: 30px;
+    text-align: center;
+}
+
+.watch_type {
+    font-family: 'Unica One';
+}
+
+.watch_description {
+    font-family: 'Dosis';
+}
